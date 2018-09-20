@@ -1,2 +1,2 @@
 # pr-checker
-test
+test 2
